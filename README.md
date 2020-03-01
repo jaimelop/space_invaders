@@ -1,7 +1,7 @@
 # space_invaders
-## Python's Crash Curse: Alien invasion game
+## Python's Crash Curse: Space Invaders game
 
-In Alien Invasion, the player controls a ship that appears at
+In Space Invaders, the player controls a ship that appears at
 the bottom center of the screen. The player can move the ship
 right and left using the arrow keys and shoot bullets using the
 spacebar. When the game begins, a fleet of aliens fills the sky
